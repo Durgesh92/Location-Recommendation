@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+    <color name="primary">#00BCD4</color>
+    <color name="primary_dark">#6343b4</color>
+    <color name="primary_light">#d759c0</color>
+    <color name="accent">#af12ba</color>
+    <color name="primary_text">#bfde13</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="indigo">#55b7e4</color>
+    <color name="pink">#da57a8</color>
+</resources>

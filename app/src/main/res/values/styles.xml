@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorControlHighlight">@color/year</item>
+        <item name="colorButtonNormal">@color/pink</item>
+    </style>
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <!--buttons color-->
+        <item name="colorAccent">@color/icons</item>
+        <!--title and message color-->
+        <item name="android:textColorPrimary">#ffffff</item>
+        <!--dialog background-->
+        <item name="android:windowBackground">@drawable/drawable</item>
+    </style>
+
+</resources>

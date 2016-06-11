@@ -1,0 +1,54 @@
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/preferences_cardview"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:layout_marginLeft="4dp"
+    android:layout_marginRight="4dp"
+    android:elevation="100dp"
+    card_view:cardCornerRadius="10dp"
+    card_view:cardBackgroundColor="@color/colorPrimary">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Set desired geographical range (meters)"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:id="@+id/preferences_textView" />
+
+        <EditText
+            android:layout_below="@+id/preferences_textView"
+            android:layout_marginTop="25dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/preferences_editText_01"
+            android:background="#ffffff"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:text="set"
+            android:id="@+id/preferences_button_01"
+            android:layout_toRightOf="@+id/preferences_editText_01"
+            android:layout_below="@+id/preferences_textView"
+            android:background="@null"
+            style="@style/Widget.AppCompat.Button.Colored"
+            />
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

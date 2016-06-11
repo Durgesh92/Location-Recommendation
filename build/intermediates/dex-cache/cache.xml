@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_0738983289d16ba7c9c0ac1e01a7400b279f4001/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_d82838de97663bd653c1998702c229e751c9db2f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_db92918452a68cd2a5f7142023541941e13883e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_25731601fcfe6612d3f3bf288353eb2abf6193be/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_af4f96ce49c664a9254e1f0995c0a58a51fe594f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_b218211fd637bbc13323f1e75fba020890f79398/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_2ed54d138c98b2989d6f6076e6b92f2383e9f4c1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.akexorcist/googledirectionlibrary/1.0.4/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1c4f62b5874f45a6fd3617fa6447714adb7a72a7">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.akexorcist-googledirectionlibrary-1.0.4_3cf4be84cee5e25d8885f5770cefa80879943fb1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_6de1dd072ae7f12527bb9893497967f6d06ce898/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/5.1.36/6bb5861f44c21c775ee713a438e5bc493c095f7a/mysql-connector-java-5.1.36.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6bb5861f44c21c775ee713a438e5bc493c095f7a">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/mysql-connector-java-5.1.36_fe50ff69bbac72d2330e02793f74df77c068bfcb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_61b66da765567c357e0f45d3f81d7e64f94f7624/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_ebc4386f40fe343a7fc11e72d0cfe28280f7dccd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.0-beta4_e8d950a2af24464c5d7f6a4507af7f661dea0b2b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_6716c63a8219064fe7696262eb33873172a65820/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.0.1_ef7a6fe8ff357975eecb8e8be40df3cbda9cf63b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_bf070a56fd4cf245ff56ee72f7e91dce03b5a3b9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_ea2f932571919c32ee8898262af36020baf75a9d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_ce5e5be029b9fc1d63a1617816fa8925e934f57f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_c67fe95887aa59531a7b3efbdbaf39c2c1139a38/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_065d67bc031743caf646f506f0d6dc2ca08c4d4d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_70a134e70e9038ed943379712adbb56976f84a7e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_9b8429c02666b0ca377f383f42c02c9bfe0922a4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_845989c22e4b646d662ab382dc57660c1f4ffdbe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_e7374ed9e52618c9b127dde84d0d8a396321740c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_ca3e4bf2eed1417be76ddd34ef928062cc6cfe25/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_371514007cd34e9c45968c2114844488db4270a5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/.gradle/caches/modules-2/files-2.1/org.parceler/parceler-api/1.0.4/4f7392b86e064f3f6da06977f54c21a48e6b6871/parceler-api-1.0.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4f7392b86e064f3f6da06977f54c21a48e6b6871">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/parceler-api-1.0.4_2a80a9177fead890d17d9c98747153b94578efb6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.1.1_07702a5d55a43b86cb714da67145db9b4b015245/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_e2b7dfe7af68e752868e2357640fb3ee720da27d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_d8f4ab094057a93d12a6a8d942216a3e20179037/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.github.jd-alexander/library/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="bde00e92c4a5a0a1075df7404248ccb30fc7e62b">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.jd-alexander-library-1.1.0_94ba7a6fb9863e5e3401f5f3d7d996550997eb95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_94b57705f6f04eec0b6c5f4f2225c8e121ef96e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_36daffab84812191167e707c58e80c98bba7768e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9399c39ad1c83896cef0e353e08b1b0b9dc693a0">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_61c11c03ae7f4e2052369d316329464033dcc499/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_c81fe894e53c717fa1dceab924357872be4e74bf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7e15acf019a318480509d97e2da091a93a81a4dc">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6e17a8fc63931658b4ee02a4d82fd21f51d75d69/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_26ccd6444d393af057fc077ea946d1fc89a00c36/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_ad7d3b4e6b88344099f11bb1ebf9ed09924fda3b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_9c82812d3a398a706a2362ad73e37addcf064784/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_3e13f2dd76fe5af400fa6386528dc3fbb8374fe4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_49c0a219a87192b16c91efd489c3cdf2bbd79796/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.0-beta4_ea95222efe918f91a16b08718ec07f0895acd597/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_476ba7885821e6e9ce0b36cecdfb561c54bb2db5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_393ad3d0d7f7d1a49415c06ad1476a77d51f49b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/Durgesh/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_04e3bf9bc3e1c2841be3c42bb36f9912e4e6a490/classes.dex" />
+    </item>
+
+</items>
